@@ -1,0 +1,9 @@
+Date,Produit,Ventes,Prix_Unitaire
+2024-01-01,Produit A,120,15.5
+2024-01-01,Produit B,80,22.0
+2024-01-02,Produit A,150,15.5
+2024-01-02,Produit C,90,35.0
+2024-01-03,Produit B,110,22.0
+2024-01-03,Produit C,50,35.0
+import pandas as pd
+
